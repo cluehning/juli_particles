@@ -1,6 +1,4 @@
-# Atom
-
-A simple atom-inspired particle simulation built as one of my first larger C++ projects.
+# Atom — particle simulation
 
 The goal of this project was not to create a scientifically accurate model of atomic physics, but rather to explore simulation programming, real-time rendering, and modern C++ development. It started as a small experiment with particles and gradually evolved into a system capable of simulating thousands of interacting particles in real time.
 
