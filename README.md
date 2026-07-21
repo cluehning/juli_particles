@@ -218,25 +218,6 @@ or
 
 ---
 
-## Lessons Learned
-
-This project taught me much more than I initially expected.
-
-Some of the most valuable lessons included:
-
-- Managing larger codebases
-- Understanding header and source file relationships
-- Resolving include and linker errors
-- Structuring reusable classes
-- Working with external dependencies
-- Building simulations that remain stable over time
-- Balancing performance and readability
-- Using debugging tools effectively
-
-Many of the challenges were not related to simulation logic itself, but to understanding how larger C++ projects are assembled and built.
-
----
-
 ## Future Improvements
 
 Some ideas I would like to explore in future versions include:
@@ -259,5 +240,4 @@ This project represents one of my first serious attempts at combining physics-in
 
 It is far from a perfect simulation, but it successfully achieved its original goal: building something interesting, interactive, and challenging enough to teach me new concepts along the way.
 
-More than anything, this project helped me become more comfortable with C++ and gave me a deeper appreciation for the engineering that goes into simulation and graphics software.
-`
+More than anything, this project helped me become more comfortable with C++.
